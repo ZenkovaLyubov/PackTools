@@ -1,0 +1,7 @@
+input#viewTimer:checked ~ #datecalc{
+  display: none;
+}
+input#viewCalc:checked ~ #timercalc{
+    display: none;
+}
+
